@@ -1,6 +1,6 @@
 {
   "name": "clyvari-youtube-history-export",
-  "main": "youtube-history-export.d.ts",
+  "main": "typings/youtube-history-export.d.ts",
   "homepage": "https://github.com/clyvari/youtube-history-export",
   "globalDependencies": {
     "clyvari": "github:clyvari/clyvari-typings"
