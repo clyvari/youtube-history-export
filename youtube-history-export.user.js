@@ -46,7 +46,7 @@
    */
   var RetrieveVidsInfo = vidsListPtr =>
   {
-    /** @type {[{title: string, url: string, user: string}]} */
+    /** @type {[clyvari.YoutubeHistoryExport.HistoryEntry]} */
     var vidsList = [];
     do
     {
